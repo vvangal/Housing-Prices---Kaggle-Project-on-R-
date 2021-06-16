@@ -7,3 +7,4 @@ Description of the Project
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, predict the final price of each home.
 The regression techniques I use in this project are: 
+1) Basic regression techniques
