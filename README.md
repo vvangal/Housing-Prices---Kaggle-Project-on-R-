@@ -6,3 +6,4 @@ the data provided in the competition. The competition, description and the data 
 Description of the Project
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, predict the final price of each home.
+The regression techniques I use in this project are: 
